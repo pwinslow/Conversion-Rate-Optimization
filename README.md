@@ -1,2 +1,2 @@
 # Conversion-Rate-Optimization
-This repo contains my jupyter notebook for a data challenge optimizing conversion rate. The data can be obtained from [here](https://drive.google.com/uc?export=download&id=0B5G7QmUBc4IRYUZDS19jS0lUNW8).
+This repo contains my jupyter notebook for a data challenge optimizing conversion rate. To run, simply fork a copy to your local machine and run the notebook.
